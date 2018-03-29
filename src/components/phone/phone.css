@@ -1,0 +1,18 @@
+
+table, th, td {
+text-align: center;
+}
+label {
+    width:100%;
+}
+h1{
+    text-align: center;
+    margin: 50px 0px;
+}
+.submit{
+    margin-right: 15px;
+}
+.editbtn
+{
+    margin-right: 5px;
+}

@@ -1,0 +1,22 @@
+.dashboard{
+    height: 70px;
+    background: #d8d8d8;
+}
+.btnAdd{
+    cursor: pointer;
+}
+.logout{
+
+}
+ul{
+    list-style: none;
+    display: inline-flex;
+    float: right;
+}
+ul >li {
+    margin: 0px 7px;
+}
+.col-sm-9
+{
+    margin-top: 15px;
+}
